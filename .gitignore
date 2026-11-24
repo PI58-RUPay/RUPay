@@ -18,6 +18,12 @@ dist-ssr
 # turbo
 .turbo
 
+# nextjs
+.next
+out
+next-env.d.ts
+repomix-output.*
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
